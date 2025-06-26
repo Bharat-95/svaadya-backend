@@ -9,3 +9,5 @@ admin.initializeApp({
 });
 const bucket = admin.storage().bucket();
 module.exports = { bucket };
+
+{/* added full code to backend*/}
